@@ -1,0 +1,28 @@
+#left{
+	background-color: blueviolet;
+	float: left;
+}
+#right{
+	background-color: whitesmoke;
+	float: right;
+	margin-right: 20px;
+}
+#name{
+	text-align: center;
+	background-color: gray;
+	height: 150px;
+	padding-top: 30px;
+	color: whitesmoke;
+}
+img{
+	border-radius: 50%;
+}
+#division-section{
+	display: flex;
+}
+.footer{
+			background-color: rebeccapurple;
+			height: 20px;
+			padding-top: 160px;
+			width: 100%;
+		}
